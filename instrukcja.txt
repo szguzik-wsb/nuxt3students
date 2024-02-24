@@ -16,5 +16,7 @@ npm run <komenda z pliku package.json>
 np. npm run dev
 Wymagania:
 - postawienie czystego projektu w nuxt3
-
+- komponenty
+- scss
+- konfiguracja nuxta
 
