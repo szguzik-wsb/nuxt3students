@@ -19,4 +19,8 @@ Wymagania:
 - komponenty
 - scss
 - konfiguracja nuxta
+- :deep
+
+Samodzielnie (do domu na drugie lab)
+- :deep
 
