@@ -2,7 +2,7 @@
   <div>
     <TopNav/>
     <LeftNav/>
-    <h3>Test2</h3>
-    
+    <NuxtPage/>
+    <Footer/>
   </div>
 </template>
