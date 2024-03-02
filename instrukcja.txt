@@ -27,7 +27,7 @@ Wymagania:
 - v-show
 - bindowanie klasy
 - model pudełkowy (flexbox z css)
-
+- propsy
 Samodzielnie (do domu na drugie lab)
 - :deep
 - ts
