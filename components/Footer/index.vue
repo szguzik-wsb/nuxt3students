@@ -9,3 +9,10 @@
   </div>
 </footer>
 </template>
+
+<style scoped lang="scss" >
+.footer {
+  background-color: black;
+  color: white;
+}
+</style>

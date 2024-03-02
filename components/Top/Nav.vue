@@ -12,7 +12,7 @@ const showMenu = () => {
     <nav class="navbar" role="navigation" aria-label="main navigation">
   <div class="navbar-brand">
     <a class="navbar-item" href="https://bulma.io">
-      <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
+      <img src="http://localhost:3000/logo.png" height="28">
     </a>
 
     <a role="button" 
