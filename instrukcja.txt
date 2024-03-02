@@ -30,4 +30,4 @@ Wymagania:
 Samodzielnie (do domu na drugie lab)
 - :deep
 - ts
-
+- git (https://www.youtube.com/watch?v=D6EI7EbEN4Q&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH)

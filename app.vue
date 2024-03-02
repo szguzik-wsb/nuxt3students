@@ -1,8 +1,7 @@
 <template>
   <div>
-    <TopNav/>
-    <LeftNav/>
-    <NuxtPage/>
-    <Footer/>
+    <NuxtLayout>
+         <NuxtPage/>
+    </NuxtLayout>
   </div>
 </template>
