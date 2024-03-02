@@ -1,11 +1,20 @@
 <script setup>
-
+const props = defineProps({
+  tel: {
+    type: String,
+    default: () => '700 000 000'
+  },
+  email: {
+    type: String,
+    default: () => 'kontakt@pornhub.com'
+  },
+});
 </script>
 
 <template>
     <div class="info">
-        <span>Tel: 700 000 000</span>
-        <span>email: kontakt@pornhub.com</span>
+        <span>Tel: {{ tel }}</span>
+        <span>email: {{ email }}</span>
     </div>
 </template>
 

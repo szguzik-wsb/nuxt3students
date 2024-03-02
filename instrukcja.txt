@@ -26,6 +26,7 @@ Wymagania:
 - v-if
 - v-show
 - bindowanie klasy
+- model pudełkowy (flexbox z css)
 
 Samodzielnie (do domu na drugie lab)
 - :deep
