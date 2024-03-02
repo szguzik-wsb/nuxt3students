@@ -1,7 +1,8 @@
 <script setup>
 
 </script>
-<template>    
+<template> 
+    <TopInfo/>
    <TopNav/>
         <slot />
     <Footer/>
