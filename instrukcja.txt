@@ -1,4 +1,4 @@
-Zaliczenie:
+Zaliczenie:  (szymon.guzik@gdansk.merito.pl)
 - oddanie projektu
 - 1 nieobecność akceptowana
 - 100% obecności podnosi ocenę o ile to nie jest 2
@@ -8,6 +8,8 @@ Zaliczenie:
 https://github.com/szguzik-wsb/nuxt3students
 
 git clone https://github.com/szguzik-wsb/nuxt3students.git
+
+style były z p. Madej
 
 cd nuxt3students
 npm install
@@ -19,8 +21,13 @@ Wymagania:
 - komponenty
 - scss
 - konfiguracja nuxta
-- :deep
+- :deep (zrobione)
+- eventy
+- v-if
+- v-show
+- bindowanie klasy
 
 Samodzielnie (do domu na drugie lab)
 - :deep
+- ts
 
